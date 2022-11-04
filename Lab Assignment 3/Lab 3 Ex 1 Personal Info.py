@@ -40,9 +40,9 @@ class PersonalInformation:
 
 #Creating the list for personal info objects for adding values to attributes of objects.
 def main():
-    Myself = PersonalInformation('Dhrubo','Kornstigen 15c', 28, 949834934)
-    Friend = PersonalInformation('Alam', 'Gavle', 27, 9823793827)
-    Family = PersonalInformation('Sajeda', 'Dhaka', 65, 2358299732)
+    Myself = PersonalInformation('Jhonny','Borlange', 28, 949834934)
+    Friend = PersonalInformation('David', 'Gavle', 27, 9823793827)
+    Family = PersonalInformation('Adams', 'Stockholm', 65, 2358299732)
 
 # Creating a list of range.
     persons = [Myself, Friend, Family]
